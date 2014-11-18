@@ -1,0 +1,15 @@
+{
+  "name": "J4SKELETON",
+  "version": "0.0.1",
+  "authors": [
+    "adrien-f <adrien.fillon@gmail.com>"
+  ],
+  "description": "Skeleton application for J4LP.",
+  "license": "MIT",
+  "private": true,
+  "ignore": [],
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "jquery": "~2.1.1"
+  }
+}
